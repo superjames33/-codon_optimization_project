@@ -1,5 +1,5 @@
 Codon Optimization Project
-Overview
+Overview:
 This project provides a web application that optimizes mRNA sequences based on a given protein sequence. It’s designed to help researchers, scientists, and bioinformatics professionals improve the efficiency of mRNA-based therapeutics by enhancing protein expression rates through optimized codon usage.
 
 The web app takes a protein sequence as input and generates an optimized mRNA sequence, designed to be used in experiments and studies focusing on mRNA synthesis.
