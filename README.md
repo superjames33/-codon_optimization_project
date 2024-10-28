@@ -64,4 +64,3 @@ Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-# -codon_optimization_project
